@@ -1,0 +1,6 @@
+coverage
+.next
+scripts
+
+*.yaml
+*.yml

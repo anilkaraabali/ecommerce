@@ -1,0 +1,215 @@
+{
+  "Account": {
+    "signOut": {
+      "cta": "Sign out",
+      "description": "Are you sure you want to sign out?"
+    },
+    "welcome": {
+      "title": "Welcome back, {name}"
+    }
+  },
+  "Auth": {
+    "email": {
+      "cta": "Send link",
+      "title": "Enter your<br/>email address"
+    },
+    "description": "Sign in with your email or sign up to become a Acme member.",
+    "confirm": {
+      "resend": "Resend code",
+      "resendIn": "Please wait {time}s before resending.",
+      "title": "Almost There! 🚀",
+      "description": "A confirmation email has been sent. Please check your inbox!"
+    },
+    "social": {
+      "apple": "Continue with Apple",
+      "email": "Continue with email",
+      "google": "Continue with Google"
+    },
+    "title": "Let's get<br/>started"
+  },
+  "Common": {
+    "comingSoon": "Coming soon",
+    "cta": {
+      "noThanks": "No, thanks",
+      "signIn": "Sign in",
+      "showMore": "Show more",
+      "showLess": "Show less"
+    },
+    "form": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Type your email",
+        "errorMessage": "Invalid email. Email must be a valid email address"
+      },
+      "required": "This field cannot be left blank",
+      "terms": {
+        "label": "By signing up, you agree to our <a class='underline' href='#'>Terms of Service</a> and <a class='underline' href='#'>Privacy Policy</a>.",
+        "required": "Please accept the terms and conditions to finish the signup"
+      }
+    },
+    "or": "or",
+    "homepage": {
+      "title": "Go to homepage",
+      "ariaLabel": "Go to homepage"
+    },
+    "theme": {
+      "dark": "Dark theme",
+      "light": "Light theme",
+      "system": "System theme"
+    },
+    "languageSwitch": {
+      "button": {
+        "ariaLabel": "Language switch",
+        "title": "Language switch"
+      },
+      "menu": {
+        "ariaLabel": "Language selection menu"
+      }
+    },
+    "recaptcha": {
+      "error": "Please confirm that you are not a robot.",
+      "info": "This site is protected by reCAPTCHA and the Google <a class='underline' href='https://policies.google.com/privacy'>Privacy Policy</a> and <a class='underline' href='https://policies.google.com/terms'>Terms of Service</a> apply."
+    },
+    "menu": {
+      "women": "Women",
+      "men": "Men",
+      "kids": "Kids",
+      "home": "Home"
+    },
+    "share": {
+      "facebook": "Share on Facebook",
+      "twitter": "Share on Twitter",
+      "x": "Share on X",
+      "whatsapp": "Share on WhatsApp",
+      "mail": "Share via Email",
+      "copyLink": "Copy link",
+      "copiedToClipboard": "Link has been copied to the clipboard"
+    },
+    "reviews": {
+      "label": "Reviews [{count}]",
+      "title": "Reviews",
+      "cta": "Write a review",
+      "noReviews": {
+        "title": "No reviews yet",
+        "description": "Be the first to share your thoughts! Your feedback helps others make informed decisions.",
+        "cta": "Write a review"
+      },
+      "form": {
+        "title": "Write a review",
+        "description": "Your feedback helps others make informed decisions.",
+        "rating": {
+          "label": "Rating",
+          "placeholder": "Select a rating",
+          "required": "This field cannot be left blank"
+        },
+        "comment": {
+          "label": "Comment",
+          "placeholder": "Write your review here",
+          "required": "This field cannot be left blank"
+        },
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "required": "This field cannot be left blank",
+        "success": {
+          "title": "Thank you for your review!",
+          "description": "Your review will be published after moderation."
+        }
+      },
+      "basedOnReviews": "Based on {count} customer reviews",
+      "legal": "Terms & Conditions Customer Rate & Review",
+      "addComment": {
+        "cta": "Add Your Comment",
+        "description": "Share your experience with others and help them make better decisions."
+      }
+    },
+    "unlockFeatureModal": {
+      "title": "Sign In to Access More",
+      "description": "Get the most out of Acme by signing in",
+      "saveFavorites": "<strong>Save</strong> favorites & wishlists",
+      "fastOrderTracking": "<strong>Fast</strong> & easy order tracking",
+      "exclusiveDiscounts": "<strong>Exclusive</strong> discounts & early access"
+    }
+  },
+  "Error": {
+    "404": {
+      "title": "Oh no! You shouldn't be seeing this",
+      "detail": "Sorry, the page you're looking for doesn't exist."
+    },
+    "500": {
+      "title": "Oops, that's our mistake.",
+      "detail": "We're not quite sure what happened, but our servers say something is wrong. We apologize and are working to fix the issue. Please try again later."
+    },
+    "400": {
+      "title": "Something went wrong",
+      "detail": "There seems to be an error processing your request."
+    },
+    "cta": "Return to the homepage"
+  },
+  "Favourites": {
+    "title": "Favourites",
+    "empty": {
+      "title": "Save your favourite items",
+      "description": "Want to save the items that you love? Just click on the heart symbol beside the item and it will appear here.",
+      "cta": "Explore Acme"
+    },
+    "total": "{count, plural, one {# item} other {# items}}",
+    "notificationText": "One or more of your favourites are sold out, but you can always try to find them in a store close to you."
+  },
+  "Footer": {
+    "shop": "Shop",
+    "women": "Women",
+    "men": "Men",
+    "kids": "Kids",
+    "home": "Home",
+    "corpareteInfo": "Corparete Info",
+    "careers": "Career at Acme",
+    "about": "About Acme",
+    "sustainability": "Sustainability Acme",
+    "press": "Press",
+    "help": "Help",
+    "customerService": "Customer Service",
+    "storeLocator": "Store Locator",
+    "giftCards": "Gift Cards",
+    "legal": "Legal & Privacy",
+    "termsOfService": "Terms of service",
+    "privacyPolicy": "Privacy policy",
+    "license": "License",
+    "copyright": "© 2025 Acme, Inc. All rights reserved.",
+    "tagline": "Your one-stop destination for fashion, home essentials, beauty products, kids."
+  },
+  "Home": {
+    "hero": {
+      "title": "Acme | Online Fashion, Homeware & Kids Clothes",
+      "headline": "15% off <br/>for members*",
+      "shopNow": "Shop now"
+    }
+  },
+  "Product": {
+    "limitedEdition": "ACME LIMITED EDITION",
+    "newArrival": "New Arrival",
+    "outOfStock": "Out of stock",
+    "arrivalDate": "Get it {date}",
+    "variants": {
+      "color": "Colour:",
+      "size": "Select size",
+      "selectedSize": "Selected size: {size}"
+    },
+    "vatInfo": "* VAT included / excl Shipping cost",
+    "cta": {
+      "addToCart": "Add to basket",
+      "notifyMe": "Notify me"
+    },
+    "details": {
+      "description": "Description",
+      "materials": "Materials",
+      "careGuide": "Care instructions",
+      "shipping": "Shipping & Returns",
+      "shippingInfo": "<p>Free standard delivery for members when spending £30 or more. Pick up in Acme free for all. Free and flexible returns for members.</p><br/><p>We accept card payments via MasterCard and Visa. You can also pay by Klarna, PayPal, Apple Pay or use your Acme giftcard.</p><br/><p>For external brands, a shipping fee might be applied. The shipping cost for each parcel will be shown at checkout. Find out more on our customer service pages.</p>",
+      "reviews": "Reviews"
+    },
+    "share": {
+      "title": "I found something interesting!",
+      "text": "Check this out!"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.product-list-grid {
+  @apply grid grid-cols-2 gap-y-12 lg:grid-cols-4 lg:gap-y-14;
+}
+
+.product-color-cross {
+  @apply absolute inset-0 size-full overflow-hidden;
+}
+
+.product-color-cross::before,
+.product-color-cross::after {
+  content: '';
+  transform-origin: center;
+  @apply absolute left-[calc(50%-1px/2)] top-[-15%] z-10 block h-[130%] w-px bg-default-500;
+}
+
+.product-color-cross::before {
+  @apply rotate-[-33.333deg];
+}
+
+.product-color-cross::after {
+  @apply rotate-[33.333deg];
+}
