@@ -6,7 +6,7 @@ Acme Commerce is a modern, fully-featured e-commerce web application built with 
 
 Check out the live demo of Acme!
 
-[Demo](https://acme-commerce-beta.vercel.app/)
+[Demo](https://ecommerce-ten-silk-41.vercel.app/)
 
 Feel free to explore and interact with the store's features.
 
